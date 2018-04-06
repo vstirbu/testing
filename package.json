@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing soup",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vstirbu/testing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vstirbu/testing/issues"
+  },
+  "homepage": "https://github.com/vstirbu/testing#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
