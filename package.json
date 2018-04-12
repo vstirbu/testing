@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vstirbu/testing#readme",
   "dependencies": {
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "lodash": "^4.17.5"
   }
 }
