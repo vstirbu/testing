@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "TM",
+    "owner": "Vlad",
+    "description": "Description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "First",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Gigi"
+  }
+}
